@@ -50,6 +50,21 @@ Möchtest du schnell auf den Marktplatz zugreifen? Das neue **Marktplatz-Panel**
 - **Verschiebbar & anpassbar:** Das Panel kann verschoben und in der Größe angepasst werden.
 - **Schließen per Button:** Ein einfacher **"X"-Button** ermöglicht das sofortige Schließen.
 
+## 7. Chat-Logger (Neue Funktion! 📝)
+Möchtest du deine Chat-Nachrichten speichern? Der **Chat-Logger** ermöglicht dir, den Verlauf auf deinem Gerät als `.txt`-Datei herunterzuladen.
+
+### Funktionen:
+- **Automatisches Speichern**: Der Chat-Logger speichert die letzten **500 Nachrichten pro Raum** im **lokalen Speicher**.
+- **Manueller Export**: Klicke auf **"💾 Logs"**, um den Chatverlauf als `.txt`-Datei mit **Datum und Uhrzeit** herunterzuladen.
+- **Formatierte Logs**: Jede Nachricht wird mit **Zeitstempel**, Benutzername und Nachricht gespeichert.
+
+### So nutzt du den Chat-Logger:
+1. Gehe zum **Chatverlauf**.
+2. Klicke auf den **"💾 Logs"**-Button in der unteren Leiste.
+3. Dein Chatverlauf wird als `.txt`-Datei gespeichert.
+
+> 💡 **Hinweis:** Der Chat-Logger speichert **keine Systemnachrichten** und löscht alte Einträge automatisch nach **500 Nachrichten** pro Raum.
+
 ## Noch ein paar Tipps
 - **Name für Hintergründe ist Pflicht:** Jeder Hintergrund benötigt einen Namen zum Speichern.
 - **Einstellungen speichern:** Änderungen wie die Sichtbarkeit der Seitenleiste oder der ausgewählte Hintergrund werden automatisch gespeichert.
